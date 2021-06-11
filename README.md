@@ -1,6 +1,9 @@
-<p align="center">	
+![бррррр](https://cdn.discordapp.com/attachments/753626564188569680/852862211104833536/unknown.png)
+
+<p align="left">
     <img src="https://img.shields.io/github/commit-activity/m/SayHelloRoman/Professor">
     <img src="https://img.shields.io/github/stars/SayHelloRoman/Professor?style=social">
+    <img src="https://img.shields.io/github/license/SayHelloRoman/Professor">
 </p>
 
 # Профессор
