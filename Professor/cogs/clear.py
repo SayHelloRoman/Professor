@@ -19,7 +19,7 @@ class Server(commands.Cog):
     @commands.has_permissions(administrator=True)
     async def clear(self, ctx):
         amount = int(ctx.get("amount"))
-        emb = Embed(title=f"Удаленно {amount} сообщений", color=0x0080ff)
+        emb = Embed(title=f"Удалено {amount} сообщений", color=0x0080ff)
 
         await ctx.channel.purge(limit=amount)
         await ctx.send(embed=emb, delete_after=10)
