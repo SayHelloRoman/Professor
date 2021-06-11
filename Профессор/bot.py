@@ -1,4 +1,3 @@
-import json
 import os
 
 from discord import Intents
@@ -15,5 +14,4 @@ for file_name in os.listdir("./cogs"):
         bot.load_extension(f"cogs.{file_name[:-3]}")
 
 
-with open("data.json") as f:
-    bot.run(json.load(f)["token"])
+bot.run(TOKEN)
