@@ -1,1 +1,1 @@
-worker: python  Профессор/bot.py
+worker: python  Professor/bot.py
