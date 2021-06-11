@@ -3,7 +3,6 @@
 <p align="left">
     <img src="https://img.shields.io/github/commit-activity/m/SayHelloRoman/Professor">
     <img src="https://img.shields.io/github/stars/SayHelloRoman/Professor?style=social">
-    <img src="https://img.shields.io/github/license/SayHelloRoman/Professor">
 </p>
 
 Профессор это бот для дискорд сервера [Сборище профессоров](https://discord.gg/xq5gQtW3BS)
