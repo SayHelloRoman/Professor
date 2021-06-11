@@ -13,7 +13,7 @@ class mycog(commands.Cog):
     
     @commands.Cog.listener()
     async def on_ready(self):
-        await self.bot.change_presence(activity=Game(name="https://github.com/SayHelloRoman/Professor"))
+        await self.bot.change_presence(activity=Game(name="github.com/SayHelloRoman/Professor"))
 
 
 def setup(bot):
