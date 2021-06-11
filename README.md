@@ -1,9 +1,6 @@
-<p align="center">
-
-    ![ok](https://img.shields.io/github/commit-activity/m/SayHelloRoman/Professor)
-
-    ![ok](https://img.shields.io/github/stars/SayHelloRoman/Professor?style=social)
-
+<p align="center">	
+    <img src="https://img.shields.io/github/commit-activity/m/SayHelloRoman/Professor">
+    <img src="https://img.shields.io/github/stars/SayHelloRoman/Professor?style=social">
 </p>
 
 # Профессор
