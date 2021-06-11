@@ -14,4 +14,4 @@ for file_name in os.listdir("./Professor/cogs"):
         bot.load_extension(f"Professor.cogs.{file_name[:-3]}")
 
 
-bot.run(TOKEN)
+bot.run(os.environ.get('TOKEN'))
