@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord import Embed, Status
 
 
-class Server(commands.Cog):
+class Clear(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
     
@@ -26,4 +26,4 @@ class Server(commands.Cog):
 
 
 def setup(bot):
-    bot.add_cog(Server(bot))
+    bot.add_cog(Clear(bot))
